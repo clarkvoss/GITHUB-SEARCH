@@ -9,3 +9,6 @@ org:Target"AWS_ACCESS_KEY_ID"
 org:Target"list_aws_accounts"
 org:Target"PASSWORD"
 Target PASSWORD
+filename:.env
+filename:.conf
+filename:.ini
