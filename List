@@ -12,3 +12,6 @@ Target PASSWORD
 filename:.env
 filename:.conf
 filename:.ini
+filename:*.ini
+filename:*.conf
+filename:*.env
